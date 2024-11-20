@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\bin\Debug\net8.0\Numeros Positivos.exe
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\bin\Debug\net8.0\Numeros Positivos.deps.json
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\bin\Debug\net8.0\Numeros Positivos.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\bin\Debug\net8.0\Numeros Positivos.dll
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\bin\Debug\net8.0\Numeros Positivos.pdb
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\Numeros Positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\Numeros Positivos.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\Numeros Positivos.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\Numeros Positivos.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\Numeros Positivos.dll
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\refint\Numeros Positivos.dll
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\Numeros Positivos.pdb
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\Numeros Positivos.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Numeros Positivos\obj\Debug\net8.0\ref\Numeros Positivos.dll

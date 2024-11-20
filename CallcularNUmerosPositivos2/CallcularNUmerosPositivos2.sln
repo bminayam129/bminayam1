@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallcularNUmerosPositivos2", "CallcularNUmerosPositivos2.csproj", "{4CE8B3C1-88A8-47F9-A16F-C88F9D2136BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE8B3C1-88A8-47F9-A16F-C88F9D2136BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE8B3C1-88A8-47F9-A16F-C88F9D2136BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE8B3C1-88A8-47F9-A16F-C88F9D2136BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE8B3C1-88A8-47F9-A16F-C88F9D2136BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1A6A78-D8DA-4CB6-8212-3CFC44441BAD}
+	EndGlobalSection
+EndGlobal

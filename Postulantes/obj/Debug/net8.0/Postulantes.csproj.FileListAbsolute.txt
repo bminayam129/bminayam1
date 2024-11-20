@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Postulantes\bin\Debug\net8.0\Postulantes.exe
+C:\Users\bmina\source\repos\C-Basic\Postulantes\bin\Debug\net8.0\Postulantes.deps.json
+C:\Users\bmina\source\repos\C-Basic\Postulantes\bin\Debug\net8.0\Postulantes.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Postulantes\bin\Debug\net8.0\Postulantes.dll
+C:\Users\bmina\source\repos\C-Basic\Postulantes\bin\Debug\net8.0\Postulantes.pdb
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\Postulantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\Postulantes.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\Postulantes.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\Postulantes.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\Postulantes.dll
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\refint\Postulantes.dll
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\Postulantes.pdb
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\Postulantes.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Postulantes\obj\Debug\net8.0\ref\Postulantes.dll

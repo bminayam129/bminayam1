@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BucleForDivisiblesPor3o5/1.0.0": {
+        "runtime": {
+          "BucleForDivisiblesPor3o5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BucleForDivisiblesPor3o5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

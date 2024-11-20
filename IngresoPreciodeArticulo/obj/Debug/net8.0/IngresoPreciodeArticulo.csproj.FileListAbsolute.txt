@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\IngresoPreciodeArticulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\IngresoPreciodeArticulo.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\IngresoPreciodeArticulo.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\IngresoPreciodeArticulo.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\bin\Debug\net8.0\IngresoPreciodeArticulo.exe
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\bin\Debug\net8.0\IngresoPreciodeArticulo.deps.json
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\bin\Debug\net8.0\IngresoPreciodeArticulo.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\bin\Debug\net8.0\IngresoPreciodeArticulo.dll
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\bin\Debug\net8.0\IngresoPreciodeArticulo.pdb
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\IngresoPreciodeArticulo.dll
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\refint\IngresoPreciodeArticulo.dll
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\IngresoPreciodeArticulo.pdb
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\IngresoPreciodeArticulo.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\IngresoPreciodeArticulo\obj\Debug\net8.0\ref\IngresoPreciodeArticulo.dll

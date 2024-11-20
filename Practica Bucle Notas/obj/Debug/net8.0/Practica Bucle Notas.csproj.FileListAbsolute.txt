@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\bin\Debug\net8.0\Practica Bucle Notas.exe
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\bin\Debug\net8.0\Practica Bucle Notas.deps.json
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\bin\Debug\net8.0\Practica Bucle Notas.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\bin\Debug\net8.0\Practica Bucle Notas.dll
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\bin\Debug\net8.0\Practica Bucle Notas.pdb
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\Practica Bucle Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\Practica Bucle Notas.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\Practica Bucle Notas.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\Practica Bucle Notas.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\Practica Bucle Notas.dll
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\refint\Practica Bucle Notas.dll
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\Practica Bucle Notas.pdb
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\Practica Bucle Notas.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Practica Bucle Notas\obj\Debug\net8.0\ref\Practica Bucle Notas.dll

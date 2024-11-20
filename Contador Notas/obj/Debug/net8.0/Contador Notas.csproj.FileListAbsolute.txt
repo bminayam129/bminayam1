@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\Contador Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\Contador Notas.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\Contador Notas.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\Contador Notas.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\bin\Debug\net8.0\Contador Notas.exe
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\bin\Debug\net8.0\Contador Notas.deps.json
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\bin\Debug\net8.0\Contador Notas.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\bin\Debug\net8.0\Contador Notas.dll
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\bin\Debug\net8.0\Contador Notas.pdb
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\Contador Notas.dll
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\refint\Contador Notas.dll
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\Contador Notas.pdb
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\Contador Notas.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Contador Notas\obj\Debug\net8.0\ref\Contador Notas.dll

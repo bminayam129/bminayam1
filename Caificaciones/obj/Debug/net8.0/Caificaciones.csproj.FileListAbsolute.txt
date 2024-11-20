@@ -1,0 +1,14 @@
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\bin\Debug\net8.0\Caificaciones.exe
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\bin\Debug\net8.0\Caificaciones.deps.json
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\bin\Debug\net8.0\Caificaciones.runtimeconfig.json
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\bin\Debug\net8.0\Caificaciones.dll
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\bin\Debug\net8.0\Caificaciones.pdb
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\Caificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\Caificaciones.AssemblyInfoInputs.cache
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\Caificaciones.AssemblyInfo.cs
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\Caificaciones.csproj.CoreCompileInputs.cache
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\Caificaciones.dll
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\refint\Caificaciones.dll
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\Caificaciones.pdb
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\Caificaciones.genruntimeconfig.cache
+C:\Users\bmina\C# Basico ITLA\repos\C-Basic\Caificaciones\obj\Debug\net8.0\ref\Caificaciones.dll

@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\bin\Debug\net8.0\CalcularPiezas.exe
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\bin\Debug\net8.0\CalcularPiezas.deps.json
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\bin\Debug\net8.0\CalcularPiezas.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\bin\Debug\net8.0\CalcularPiezas.dll
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\bin\Debug\net8.0\CalcularPiezas.pdb
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\CalcularPiezas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\CalcularPiezas.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\CalcularPiezas.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\CalcularPiezas.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\CalcularPiezas.dll
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\refint\CalcularPiezas.dll
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\CalcularPiezas.pdb
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\CalcularPiezas.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\CalcularPiezas\obj\Debug\net8.0\ref\CalcularPiezas.dll

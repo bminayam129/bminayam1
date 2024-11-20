@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\bin\Debug\net8.0\Producto y Cociente.exe
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\bin\Debug\net8.0\Producto y Cociente.deps.json
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\bin\Debug\net8.0\Producto y Cociente.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\bin\Debug\net8.0\Producto y Cociente.dll
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\bin\Debug\net8.0\Producto y Cociente.pdb
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\Producto y Cociente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\Producto y Cociente.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\Producto y Cociente.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\Producto y Cociente.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\Producto y Cociente.dll
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\refint\Producto y Cociente.dll
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\Producto y Cociente.pdb
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\Producto y Cociente.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Producto y Cociente\obj\Debug\net8.0\ref\Producto y Cociente.dll

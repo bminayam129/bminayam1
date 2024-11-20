@@ -1,0 +1,4 @@
+C:\Users\bmina\source\repos\C-Basic\Bucles\obj\Debug\net8.0\Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Bucles\obj\Debug\net8.0\Bucles.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Bucles\obj\Debug\net8.0\Bucles.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Bucles\obj\Debug\net8.0\Bucles.csproj.CoreCompileInputs.cache

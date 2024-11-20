@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\bin\Debug\net8.0\CalcularPerimetro.exe
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\bin\Debug\net8.0\CalcularPerimetro.deps.json
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\bin\Debug\net8.0\CalcularPerimetro.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\bin\Debug\net8.0\CalcularPerimetro.dll
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\bin\Debug\net8.0\CalcularPerimetro.pdb
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\CalcularPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\CalcularPerimetro.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\CalcularPerimetro.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\CalcularPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\CalcularPerimetro.dll
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\refint\CalcularPerimetro.dll
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\CalcularPerimetro.pdb
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\CalcularPerimetro.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\CalcularPerimetro\obj\Debug\net8.0\ref\CalcularPerimetro.dll
