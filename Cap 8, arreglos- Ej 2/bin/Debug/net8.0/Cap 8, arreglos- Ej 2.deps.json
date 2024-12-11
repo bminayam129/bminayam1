@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cap 8, arreglos- Ej 2/1.0.0": {
+        "runtime": {
+          "Cap 8, arreglos- Ej 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap 8, arreglos- Ej 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

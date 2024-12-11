@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\bin\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.exe
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\bin\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.deps.json
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\bin\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\bin\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.dll
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\bin\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.pdb
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.dll
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\refint\Grafico Barras- Arreglos cap 8, Ej 5.dll
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.pdb
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\Grafico Barras- Arreglos cap 8, Ej 5.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Grafico Barras- Arreglos cap 8, Ej 5\obj\Debug\net8.0\ref\Grafico Barras- Arreglos cap 8, Ej 5.dll

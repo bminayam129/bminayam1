@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\bin\Debug\net8.0\Cap 8-Arreglos.exe
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\bin\Debug\net8.0\Cap 8-Arreglos.deps.json
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\bin\Debug\net8.0\Cap 8-Arreglos.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\bin\Debug\net8.0\Cap 8-Arreglos.dll
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\bin\Debug\net8.0\Cap 8-Arreglos.pdb
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\Cap 8-Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\Cap 8-Arreglos.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\Cap 8-Arreglos.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\Cap 8-Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\Cap 8-Arreglos.dll
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\refint\Cap 8-Arreglos.dll
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\Cap 8-Arreglos.pdb
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\Cap 8-Arreglos.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Cap 8-Arreglos\obj\Debug\net8.0\ref\Cap 8-Arreglos.dll

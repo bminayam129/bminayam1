@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bmina\\source\\repos\\C-Basic\\LibroCalificaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4160C847-145D-48C6-B973-B182E7D578CA}|LibroCalificaciones.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\librocalificaciones\\pruebalibrocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4160C847-145D-48C6-B973-B182E7D578CA}|LibroCalificaciones.csproj|solutionrelative:pruebalibrocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4160C847-145D-48C6-B973-B182E7D578CA}|LibroCalificaciones.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\librocalificaciones\\calificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4160C847-145D-48C6-B973-B182E7D578CA}|LibroCalificaciones.csproj|solutionrelative:calificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaLibroCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\LibroCalificaciones\\PruebaLibroCalificaciones.cs",
+              "RelativeDocumentMoniker": "PruebaLibroCalificaciones.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\LibroCalificaciones\\PruebaLibroCalificaciones.cs",
+              "RelativeToolTip": "PruebaLibroCalificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:23:10.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\LibroCalificaciones\\Calificaciones.cs",
+              "RelativeDocumentMoniker": "Calificaciones.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\LibroCalificaciones\\Calificaciones.cs",
+              "RelativeToolTip": "Calificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:43:48.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

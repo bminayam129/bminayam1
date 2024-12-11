@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays- Matriz de 20", "Arrays- Matriz de 20.csproj", "{85DB053A-E40C-475A-B439-1729CBBD051B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leer dos matrices", "..\Leer dos matrices\Leer dos matrices.csproj", "{EC2DC8C3-A385-44B8-ACFC-96F98D3F67E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85DB053A-E40C-475A-B439-1729CBBD051B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DB053A-E40C-475A-B439-1729CBBD051B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DB053A-E40C-475A-B439-1729CBBD051B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DB053A-E40C-475A-B439-1729CBBD051B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2DC8C3-A385-44B8-ACFC-96F98D3F67E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2DC8C3-A385-44B8-ACFC-96F98D3F67E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2DC8C3-A385-44B8-ACFC-96F98D3F67E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2DC8C3-A385-44B8-ACFC-96F98D3F67E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C003F1F-56BA-4232-89F4-97E5E65DA200}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\Arrays- Matriz de 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\Arrays- Matriz de 20.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\Arrays- Matriz de 20.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\Arrays- Matriz de 20.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\bin\Debug\net8.0\Arrays- Matriz de 20.exe
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\bin\Debug\net8.0\Arrays- Matriz de 20.deps.json
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\bin\Debug\net8.0\Arrays- Matriz de 20.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\bin\Debug\net8.0\Arrays- Matriz de 20.dll
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\bin\Debug\net8.0\Arrays- Matriz de 20.pdb
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\Arrays- Matriz de 20.dll
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\refint\Arrays- Matriz de 20.dll
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\Arrays- Matriz de 20.pdb
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\Arrays- Matriz de 20.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Arrays- Matriz de 20\obj\Debug\net8.0\ref\Arrays- Matriz de 20.dll

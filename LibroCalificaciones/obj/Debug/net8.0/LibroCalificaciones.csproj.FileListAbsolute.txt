@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.exe
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.deps.json
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.dll
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.pdb
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.dll
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\refint\LibroCalificaciones.dll
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.pdb
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\LibroCalificaciones\obj\Debug\net8.0\ref\LibroCalificaciones.dll

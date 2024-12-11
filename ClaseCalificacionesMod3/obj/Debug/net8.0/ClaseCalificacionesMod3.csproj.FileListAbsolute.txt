@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\bin\Debug\net8.0\ClaseCalificacionesMod3.exe
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\bin\Debug\net8.0\ClaseCalificacionesMod3.deps.json
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\bin\Debug\net8.0\ClaseCalificacionesMod3.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\bin\Debug\net8.0\ClaseCalificacionesMod3.dll
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\bin\Debug\net8.0\ClaseCalificacionesMod3.pdb
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\ClaseCalificacionesMod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\ClaseCalificacionesMod3.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\ClaseCalificacionesMod3.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\ClaseCalificacionesMod3.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\ClaseCalificacionesMod3.dll
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\refint\ClaseCalificacionesMod3.dll
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\ClaseCalificacionesMod3.pdb
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\ClaseCalificacionesMod3.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\ClaseCalificacionesMod3\obj\Debug\net8.0\ref\ClaseCalificacionesMod3.dll

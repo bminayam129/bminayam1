@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Cap 8-Arreglos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A619DDB-BBE4-4096-B45C-E7787A0E6821}|..\\EncuestaEstudiantil- Cap 8, arreglos\\EncuestaEstudiantil- Cap 8, arreglos.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\encuestaestudiantil- cap 8, arreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDE846B-E3A3-4C5E-80BE-1C83A010711E}|..\\Tirar dado-Capt 8, arreglos, Ej 7\\Tirar dado-Capt 8, arreglos, Ej 7.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\tirar dado-capt 8, arreglos, ej 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED0B96A-28B7-4EF8-8143-F454EAB2B131}|..\\Grafico Barras- Arreglos cap 8, Ej 5\\Grafico Barras- Arreglos cap 8, Ej 5.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\grafico barras- arreglos cap 8, ej 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EE2D65-43AA-4286-8C4C-325C714F14D9}|..\\Suma Arreglos- Cap 8, Ej 4\\Suma Arreglos- Cap 8, Ej 4.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\suma arreglos- cap 8, ej 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92327A-E18A-428E-9774-DC65B5647B14}|..\\Cap 8, arreglos - Ej 3\\Cap 8, arreglos - Ej 3.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\cap 8, arreglos - ej 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ADC63E-9605-4250-9863-45516E48EA8B}|..\\Cap 8, arreglos- Ej 2\\Cap 8, arreglos- Ej 2.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\cap 8, arreglos- ej 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51108094-D67B-4D4A-ACD6-F227F2645F7A}|Cap 8-Arreglos.csproj|c:\\users\\bmina\\source\\repos\\c-basic\\cap 8-arreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51108094-D67B-4D4A-ACD6-F227F2645F7A}|Cap 8-Arreglos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\EncuestaEstudiantil- Cap 8, arreglos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EncuestaEstudiantil- Cap 8, arreglos\\Program.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\EncuestaEstudiantil- Cap 8, arreglos\\Program.cs",
+              "RelativeToolTip": "..\\EncuestaEstudiantil- Cap 8, arreglos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:14:19.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Tirar dado-Capt 8, arreglos, Ej 7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Tirar dado-Capt 8, arreglos, Ej 7\\Program.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Tirar dado-Capt 8, arreglos, Ej 7\\Program.cs",
+              "RelativeToolTip": "..\\Tirar dado-Capt 8, arreglos, Ej 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:00:11.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Grafico Barras- Arreglos cap 8, Ej 5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Grafico Barras- Arreglos cap 8, Ej 5\\Program.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Grafico Barras- Arreglos cap 8, Ej 5\\Program.cs",
+              "RelativeToolTip": "..\\Grafico Barras- Arreglos cap 8, Ej 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:47:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Suma Arreglos- Cap 8, Ej 4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Suma Arreglos- Cap 8, Ej 4\\Program.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Suma Arreglos- Cap 8, Ej 4\\Program.cs",
+              "RelativeToolTip": "..\\Suma Arreglos- Cap 8, Ej 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:30:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Cap 8, arreglos - Ej 3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Cap 8, arreglos - Ej 3\\Program.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Cap 8, arreglos - Ej 3\\Program.cs",
+              "RelativeToolTip": "..\\Cap 8, arreglos - Ej 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:15:27.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Cap 8, arreglos- Ej 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Cap 8, arreglos- Ej 2\\Program.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Cap 8, arreglos- Ej 2\\Program.cs",
+              "RelativeToolTip": "..\\Cap 8, arreglos- Ej 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:08:26.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Cap 8-Arreglos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bmina\\source\\repos\\C-Basic\\Cap 8-Arreglos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:59:57.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

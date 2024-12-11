@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Suma Arreglos- Cap 8, Ej 4/1.0.0": {
+        "runtime": {
+          "Suma Arreglos- Cap 8, Ej 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Suma Arreglos- Cap 8, Ej 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

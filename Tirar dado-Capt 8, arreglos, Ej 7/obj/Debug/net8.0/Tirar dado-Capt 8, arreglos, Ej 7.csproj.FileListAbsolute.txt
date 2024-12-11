@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\bin\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.exe
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\bin\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.deps.json
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\bin\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\bin\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.dll
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\bin\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.pdb
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.dll
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\refint\Tirar dado-Capt 8, arreglos, Ej 7.dll
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.pdb
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\Tirar dado-Capt 8, arreglos, Ej 7.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Tirar dado-Capt 8, arreglos, Ej 7\obj\Debug\net8.0\ref\Tirar dado-Capt 8, arreglos, Ej 7.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalcularPromedio
-build_property.ProjectDir = C:\Users\bmina\source\repos\bminayam01\bminayam129\bminayam1\CalcularPromedio\
+build_property.ProjectDir = C:\Users\bmina\source\repos\C-Basic\CalcularPromedio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

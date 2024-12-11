@@ -1,0 +1,11 @@
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\bin\Debug\net8.0\Punto en el plano.deps.json
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\bin\Debug\net8.0\Punto en el plano.dll
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\bin\Debug\net8.0\Punto en el plano.pdb
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\obj\Debug\net8.0\Punto en el plano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\obj\Debug\net8.0\Punto en el plano.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\obj\Debug\net8.0\Punto en el plano.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\obj\Debug\net8.0\Punto en el plano.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\obj\Debug\net8.0\Punto en el plano.dll
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\obj\Debug\net8.0\refint\Punto en el plano.dll
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\obj\Debug\net8.0\Punto en el plano.pdb
+C:\Users\bmina\source\repos\C-Basic\Punto en el plano\obj\Debug\net8.0\ref\Punto en el plano.dll

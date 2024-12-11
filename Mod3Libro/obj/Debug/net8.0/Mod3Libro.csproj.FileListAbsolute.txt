@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\bin\Debug\net8.0\Mod3Libro.exe
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\bin\Debug\net8.0\Mod3Libro.deps.json
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\bin\Debug\net8.0\Mod3Libro.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\bin\Debug\net8.0\Mod3Libro.dll
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\bin\Debug\net8.0\Mod3Libro.pdb
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\Mod3Libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\Mod3Libro.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\Mod3Libro.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\Mod3Libro.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\Mod3Libro.dll
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\refint\Mod3Libro.dll
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\Mod3Libro.pdb
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\Mod3Libro.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Mod3Libro\obj\Debug\net8.0\ref\Mod3Libro.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tirar dado-Capt 8, arreglos, Ej 7/1.0.0": {
+        "runtime": {
+          "Tirar dado-Capt 8, arreglos, Ej 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tirar dado-Capt 8, arreglos, Ej 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

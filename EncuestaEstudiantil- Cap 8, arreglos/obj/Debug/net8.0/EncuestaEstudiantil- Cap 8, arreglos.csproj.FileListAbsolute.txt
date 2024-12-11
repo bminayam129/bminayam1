@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\bin\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.exe
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\bin\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.deps.json
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\bin\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\bin\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.dll
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\bin\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.pdb
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.dll
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\refint\EncuestaEstudiantil- Cap 8, arreglos.dll
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.pdb
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\EncuestaEstudiantil- Cap 8, arreglos.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\EncuestaEstudiantil- Cap 8, arreglos\obj\Debug\net8.0\ref\EncuestaEstudiantil- Cap 8, arreglos.dll

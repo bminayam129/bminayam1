@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\bin\Debug\net8.0\Leer dos matrices.exe
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\bin\Debug\net8.0\Leer dos matrices.deps.json
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\bin\Debug\net8.0\Leer dos matrices.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\bin\Debug\net8.0\Leer dos matrices.dll
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\bin\Debug\net8.0\Leer dos matrices.pdb
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\Leer dos matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\Leer dos matrices.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\Leer dos matrices.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\Leer dos matrices.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\Leer dos matrices.dll
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\refint\Leer dos matrices.dll
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\Leer dos matrices.pdb
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\Leer dos matrices.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Leer dos matrices\obj\Debug\net8.0\ref\Leer dos matrices.dll

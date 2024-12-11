@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\bin\Debug\net8.0\sueldodeempleados.exe
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\bin\Debug\net8.0\sueldodeempleados.deps.json
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\bin\Debug\net8.0\sueldodeempleados.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\bin\Debug\net8.0\sueldodeempleados.dll
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\bin\Debug\net8.0\sueldodeempleados.pdb
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\sueldodeempleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\sueldodeempleados.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\sueldodeempleados.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\sueldodeempleados.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\sueldodeempleados.dll
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\refint\sueldodeempleados.dll
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\sueldodeempleados.pdb
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\sueldodeempleados.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\sueldodeempleados\obj\Debug\net8.0\ref\sueldodeempleados.dll

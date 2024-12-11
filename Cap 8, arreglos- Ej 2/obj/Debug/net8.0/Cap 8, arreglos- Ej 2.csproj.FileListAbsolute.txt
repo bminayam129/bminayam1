@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\bin\Debug\net8.0\Cap 8, arreglos- Ej 2.exe
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\bin\Debug\net8.0\Cap 8, arreglos- Ej 2.deps.json
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\bin\Debug\net8.0\Cap 8, arreglos- Ej 2.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\bin\Debug\net8.0\Cap 8, arreglos- Ej 2.dll
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\bin\Debug\net8.0\Cap 8, arreglos- Ej 2.pdb
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\Cap 8, arreglos- Ej 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\Cap 8, arreglos- Ej 2.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\Cap 8, arreglos- Ej 2.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\Cap 8, arreglos- Ej 2.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\Cap 8, arreglos- Ej 2.dll
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\refint\Cap 8, arreglos- Ej 2.dll
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\Cap 8, arreglos- Ej 2.pdb
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\Cap 8, arreglos- Ej 2.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Cap 8, arreglos- Ej 2\obj\Debug\net8.0\ref\Cap 8, arreglos- Ej 2.dll

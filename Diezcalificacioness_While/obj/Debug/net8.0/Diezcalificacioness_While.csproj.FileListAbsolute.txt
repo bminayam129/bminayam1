@@ -1,0 +1,14 @@
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\bin\Debug\net8.0\Diezcalificacioness_While.exe
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\bin\Debug\net8.0\Diezcalificacioness_While.deps.json
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\bin\Debug\net8.0\Diezcalificacioness_While.runtimeconfig.json
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\bin\Debug\net8.0\Diezcalificacioness_While.dll
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\bin\Debug\net8.0\Diezcalificacioness_While.pdb
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\Diezcalificacioness_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\Diezcalificacioness_While.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\Diezcalificacioness_While.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\Diezcalificacioness_While.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\Diezcalificacioness_While.dll
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\refint\Diezcalificacioness_While.dll
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\Diezcalificacioness_While.pdb
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\Diezcalificacioness_While.genruntimeconfig.cache
+C:\Users\bmina\source\repos\C-Basic\Diezcalificacioness_While\obj\Debug\net8.0\ref\Diezcalificacioness_While.dll

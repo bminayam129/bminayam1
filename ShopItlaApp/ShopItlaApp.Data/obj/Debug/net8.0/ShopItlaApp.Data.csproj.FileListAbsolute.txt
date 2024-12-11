@@ -1,0 +1,12 @@
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\bin\Debug\net8.0\ShopItlaApp.Data.deps.json
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\bin\Debug\net8.0\ShopItlaApp.Data.dll
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\bin\Debug\net8.0\ShopItlaApp.Data.pdb
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\ShopItlaApp.Data.csproj.AssemblyReference.cache
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\ShopItlaApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\ShopItlaApp.Data.AssemblyInfoInputs.cache
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\ShopItlaApp.Data.AssemblyInfo.cs
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\ShopItlaApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\ShopItlaApp.Data.dll
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\refint\ShopItlaApp.Data.dll
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\ShopItlaApp.Data.pdb
+C:\Users\bmina\source\repos\C-Basic\ShopItlaApp\ShopItlaApp.Data\obj\Debug\net8.0\ref\ShopItlaApp.Data.dll

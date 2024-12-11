@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcularPiezas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cfe21d3e02df02d9e122e27f6807eed8a1e9077")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcularPiezas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcularPiezas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
